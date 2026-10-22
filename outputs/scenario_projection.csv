@@ -1,0 +1,4 @@
+scenario,extra_approved_loans,approval_rate_after_pct,extra_approved_value_millions
+Recover 20% of doc-upload abandonments,282,56.4,385
+Recover 30% of doc-upload abandonments,423,57.5,577
+Recover 40% of doc-upload abandonments,564,58.7,769

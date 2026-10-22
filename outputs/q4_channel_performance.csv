@@ -1,0 +1,4 @@
+channel,applications,abandonment_rate_pct,approval_rate_pct,avg_days_to_decision,docs_complete_first_attempt_pct
+Mobile App,3012,42.1,48.8,12.1,51.1
+Online,4801,39.0,51.9,11.6,60.7
+Branch,4187,31.4,60.2,9.1,85.6
